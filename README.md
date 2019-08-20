@@ -9,8 +9,9 @@ So, I began geotagging all photos i captured using my smartphone and then built 
 User workflow: simply paste geotagged photos in folder Images -> run Reconn-master.py -> HTML file will a autopopulate markers with image thumbnails
 
 Project setup: 
+
 Root
-|-html_files //each image will be saved as html file. 
+|-html_files //each image will be saved as html file. \n
 |-Images //contains user generated images
 |-FoliumMap.html //html file with leaflet map base layer. Additional layers added based on desired groups of markers (like a photo album) 
 |-Reconn-master.py //main app file
