@@ -11,8 +11,8 @@ User workflow: simply paste geotagged photos in folder Images -> run Reconn-mast
 Project setup: 
 
 Root <br>
-|-html_files //each image will be saved as html file. \n
-|-Images //contains user generated images
-|-FoliumMap.html //html file with leaflet map base layer. Additional layers added based on desired groups of markers (like a photo album) 
-|-Reconn-master.py //main app file
-|-srcscript.js
+|-html_files //each image will be saved as html file. <br>
+|-Images //contains user generated images <br>
+|-FoliumMap.html //html file with leaflet map base layer. Additional layers added based on desired groups of markers (like a photo album) <br>
+|-Reconn-master.py //main app file <br>
+|-srcscript.js  <br>
